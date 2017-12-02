@@ -1,0 +1,5 @@
+.idea
+# macosx shit
+.DS_Store
+
+__pycache__/
